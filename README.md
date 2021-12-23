@@ -1,4 +1,5 @@
 # File Downloader
+This program downloads file automatically.
 
 # Requirments
 1. Selenium
